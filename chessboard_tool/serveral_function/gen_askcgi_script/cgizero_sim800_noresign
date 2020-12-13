@@ -1,0 +1,928 @@
+= black
+
+= L18
+
+= black
+
+= A5
+
+= black
+
+= A18
+
+= black
+
+= T2
+
+= black
+
+= F19
+
+= black
+
+= A8
+
+= black
+
+= S1
+
+= black
+
+= R15
+
+= black
+
+= B5
+
+= black
+
+= L18
+
+= black
+
+= E16
+
+= black
+
+= Q6
+
+= black
+
+= Q5
+
+= black
+
+= H2
+
+= black
+
+= C17
+
+= black
+
+= S18
+
+= black
+
+= Q17
+
+= black
+
+= Q2
+
+= black
+
+= D18
+
+= black
+
+= B8
+
+= black
+
+= L18
+
+= black
+
+= H2
+
+= black
+
+= B16
+
+= black
+
+= S3
+
+= black
+
+= H2
+
+= black
+
+= S14
+
+= black
+
+= S2
+
+= black
+
+= B1
+
+= black
+
+= K19
+
+= black
+
+= Q19
+
+= black
+
+= A5
+
+= black
+
+= Q2
+
+= black
+
+= C17
+
+= black
+
+= C7
+
+= black
+
+= N2
+
+= black
+
+= B8
+
+= black
+
+= J17
+
+= black
+
+= A12
+
+= black
+
+= P2
+
+= black
+
+= B4
+
+= black
+
+= B8
+
+= black
+
+= C6
+
+= black
+
+= N2
+
+= black
+
+= E19
+
+= black
+
+= H2
+
+= black
+
+= P3
+
+= black
+
+= E17
+
+= black
+
+= O2
+
+= black
+
+= B13
+
+= black
+
+= G19
+
+= black
+
+= PASS
+
+= black
+
+= B13
+
+= black
+
+= C14
+
+= black
+
+= B2
+
+= black
+
+= S18
+
+= black
+
+= G18
+
+= black
+
+= B13
+
+= black
+
+= B4
+
+= black
+
+= PASS
+
+= black
+
+= Q17
+
+= black
+
+= B13
+
+= black
+
+= S14
+
+= black
+
+= C18
+
+= black
+
+= L2
+
+= black
+
+= B13
+
+= black
+
+= S7
+
+= black
+
+= R6
+
+= black
+
+= H2
+
+= black
+
+= S7
+
+= black
+
+= S18
+
+= black
+
+= B13
+
+= black
+
+= PASS
+
+= black
+
+= D17
+
+= black
+
+= B13
+
+= black
+
+= E18
+
+= black
+
+= E3
+
+= black
+
+= N2
+
+= black
+
+= B13
+
+= black
+
+= B19
+
+= black
+
+= Q18
+
+= black
+
+= D19
+
+= black
+
+= S1
+
+= black
+
+= T17
+
+= black
+
+= B2
+
+= black
+
+= P17
+
+= black
+
+= P1
+
+= black
+
+= S16
+
+= black
+
+= A5
+
+= black
+
+= S11
+
+= black
+
+= B8
+
+= black
+
+= B3
+
+= black
+
+= S16
+
+= black
+
+= E19
+
+= black
+
+= B13
+
+= black
+
+= E16
+
+= black
+
+= B8
+
+= black
+
+= S8
+
+= black
+
+= N2
+
+= black
+
+= P2
+
+= black
+
+= A5
+
+= black
+
+= S17
+
+= black
+
+= E19
+
+= black
+
+= S2
+
+= black
+
+= H18
+
+= black
+
+= N2
+
+= black
+
+= N2
+
+= black
+
+= P5
+
+= black
+
+= B5
+
+= black
+
+= N2
+
+= black
+
+= S11
+
+= black
+
+= S18
+
+= black
+
+= C5
+
+= black
+
+= S11
+
+= black
+
+= P3
+
+= black
+
+= B19
+
+= black
+
+= N2
+
+= black
+
+= S1
+
+= black
+
+= B2
+
+= black
+
+= J19
+
+= black
+
+= H18
+
+= black
+
+= T2
+
+= black
+
+= R17
+
+= black
+
+= R2
+
+= black
+
+= B5
+
+= black
+
+= A5
+
+= black
+
+= T12
+
+= black
+
+= D17
+
+= black
+
+= Q2
+
+= black
+
+= A10
+
+= black
+
+= F3
+
+= black
+
+= S11
+
+= black
+
+= P2
+
+= black
+
+= S19
+
+= black
+
+= PASS
+
+= black
+
+= S15
+
+= black
+
+= F18
+
+= black
+
+= S7
+
+= black
+
+= H2
+
+= black
+
+= P2
+
+= black
+
+= D2
+
+= black
+
+= P3
+
+= black
+
+= PASS
+
+= black
+
+= Q3
+
+= black
+
+= PASS
+
+= black
+
+= B18
+
+= black
+
+= P2
+
+= black
+
+= P2
+
+= black
+
+= S18
+
+= black
+
+= PASS
+
+= black
+
+= S11
+
+= black
+
+= P3
+
+= black
+
+= S7
+
+= black
+
+= PASS
+
+= black
+
+= B8
+
+= black
+
+= B18
+
+= black
+
+= H18
+
+= black
+
+= B13
+
+= black
+
+= PASS
+
+= black
+
+= B5
+
+= black
+
+= T2
+
+= black
+
+= S18
+
+= black
+
+= S11
+
+= black
+
+= H2
+
+= black
+
+= P16
+
+= black
+
+= Q3
+
+= black
+
+= B2
+
+= black
+
+= B18
+
+= black
+
+= R2
+
+= black
+
+= F19
+
+= black
+
+= N2
+
+= black
+
+= B2
+
+= black
+
+= H2
+
+= black
+
+= R8
+
+= black
+
+= Q18
+
+= black
+
+= A3
+
+= black
+
+= D18
+
+= black
+
+= D3
+
+= black
+
+= S7
+
+= black
+
+= R16
+
+= black
+
+= M11
+
+= black
+
+= H18
+
+= black
+
+= S8
+
+= black
+
+= S11
+
+= black
+
+= B6
+
+= black
+
+= T2
+
+= black
+
+= C18
+
+= black
+
+= O17
+
+= black
+
+= R1
+
+= black
+
+= N2
+
+= black
+
+= B16
+
+= black
+
+= A6
+
+= black
+
+= R3
+
+= black
+
+= D17
+
+= black
+
+= H18
+
+= black
+
+= T16
+
+= black
+
+= B3
+
+= black
+
+= R16
+
+= black
+
+= B8
+
+= black
+
+= B18
+
+= black
+
+= L18
+
+= black
+
+= S8
+
+= black
+
+= S16
+
+= black
+
+= PASS
+
+= black
+
+= L18
+
+= black
+
+= B18
+
+= black
+
+= P2
+
+= black
+
+= R1
+
+= black
+
+= L18
+
+= black
+
+= H2
+
+= black
+
+= F18
+
+= black
+
+= S7
+
+= black
+
+= Q2
+
+= black
+
+= S18
+
+= black
+
+= B5
+
+= black
+
+= J17
+
+= black
+
+= S11
+
+= black
+
+= B4
+
+= black
+
+= PASS
+
+= black
+
+= B7
+
+= black
+
+= S1
+
+= black
+
+= R17
+
+= black
+
+= E19
+
+= black
+
+= N2
+
+= black
+
+= S10
+
+= black
+
+= PASS
+
+= black
+
+= C18
+
+= black
+
+= R17
+
+= black
+
+= B13
+
+= black
+
+= A18
+
+= black
+
+= PASS
+
+= black
+
+= PASS
+
+= black
+
+= Q16
+
